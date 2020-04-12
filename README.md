@@ -1,5 +1,5 @@
-# Bem vindo eu sou o Nilton
+# Bem vindo. Eu sou Nilton.
 
-Daqui você para lá.
+Compartilho neste site coisas que considerei interessantes no momento da publicação.
 
-[qualquer coisa ai](./qualquercoisaai.html)
+[Notas sobre Django](./Django_notes.html)
